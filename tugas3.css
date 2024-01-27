@@ -1,0 +1,29 @@
+body{
+    margin-left: 380px;
+}
+.kotak1{
+    padding: 50px;
+    color: fff;
+    margin: 20px;
+    margin-top: 200px;
+    background-color: blue;
+    border: 2px solid;
+}
+.kotak1:hover{
+    background-color:  rgb(18, 223, 18);
+    cursor: pointer;
+}
+.kotak2{
+    padding: 50px;
+    color: fff;
+    margin: 20px;
+    margin-top: 10px;
+    margin-left: 174px;
+    background-color: fuchsia;
+    border: solid;
+}
+
+.kotak2:hover{
+    background-color: rgb(18, 223, 18);
+    cursor: pointer;
+}
